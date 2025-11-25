@@ -3,6 +3,8 @@
 # 🌍 Global Energy Consumption (2000–2024)
 **Analyzing trends, segmentation, carbon correlation, and forecasting**  
 
+Access streamlit : https://mydaproject.streamlit.app/
+
 ## 🔎 Background
 Dalam konteks transisi energi global, pemahaman tren konsumsi dan pergeseran sumber energi sangat penting untuk kebijakan, strategi industri, dan agenda keberlanjutan. Dengan menganalisis data konsumsi energi lintas negara, jenis sumber energi, dan rentang waktu 2000–2024, kita dapat:
 
